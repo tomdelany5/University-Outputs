@@ -2,7 +2,7 @@
 
 This project presents a comprehensive portfolio evaluating the antidepressant Vilazodone across its full life cycle: from discovery through clinical trials to real-world pharmacovigilance. Submitted as part of a regulatory affairs and drug development module.
 
-[Drug_Portfolio.pdf](https://github.com/user-attachments/files/20676076/Drug_Portfolio.pdf)
+[Vilazodone_Regulatory_Analysis (1).docx](https://github.com/user-attachments/files/20690607/Vilazodone_Regulatory_Analysis.1.docx)
 
 ## Contents
 
