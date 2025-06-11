@@ -2,8 +2,7 @@
 
 This project presents a scientific poster prepared for an academic module on emerging therapies. It focuses on glutamatergic antidepressants, particularly NMDA receptor modulators, as novel treatments for Major Depressive Disorder (MDD).
 
-[Vilazodone_Regulatory_Analysis.docx](https://github.com/user-attachments/files/20690582/Vilazodone_Regulatory_Analysis.docx)
-
+[Emerging_Therapies.pdf](https://github.com/user-attachments/files/20690613/Emerging_Therapies.pdf)
 
 ## Topics Covered
 
